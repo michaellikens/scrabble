@@ -81,8 +81,8 @@ Scrabble/
 ---
 
 ## 👨‍💻 Authors
-- Michael L.  
-- Dean D.  
+- [Michael L.](https://github.com/michaellikens)
+- [Dean D.](https://github.com/TheOneAndOnlyAtlas)
 - Andrew L.  
 
 ---
