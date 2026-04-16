@@ -83,7 +83,7 @@ Scrabble/
 ## 👨‍💻 Authors
 - [Michael L.](https://github.com/michaellikens)
 - [Dean D.](https://github.com/TheOneAndOnlyAtlas)
-- Andrew L.  
+- [Andrew L.](https://github.com/torbuh)
 
 ---
 
